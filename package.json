@@ -1,0 +1,24 @@
+{
+    "name": "timestamp",
+    "version": "1.0.0",
+    "description": "my freecode camp backend timestamp app",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jidemobell/nodejs-timestamp.git"
+    },
+    "author": "Jide Olaniyan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jidemobell/nodejs-timestamp/issues"
+    },
+    "homepage": "https://github.com/jidemobell/nodejs-timestamp#readme",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "cors": "^2.8.4",
+        "express": "^4.16.2"
+    }
+}
